@@ -34,7 +34,7 @@ SharePoint agents, powered by AI, help users quickly find information and insigh
 
 ### Use file permissions on the agent file
 
-As SharePoint agents are represented as [.agent files](https://support.microsoft.com/office/create-and-edit-an-agent-d16c6ca1-a8e3-4096-af49-67e1cfdddd42#where-agent-file), permissions on the *.agent* file govern who can access or edit the agent. Only users who are able to create or access files on a SharePoint site can create or access agents.
+As SharePoint agents are represented as [.agent files](https://support.microsoft.com/office/create-and-edit-an-agent-d16c6ca1-a8e3-4096-af49-67e1cfdddd42#where-agent-file), permissions on the *.agent* file govern who can access or edit the agent. Only users who are able to create or access files on a SharePoint site can create or access agents. It is important that the end user using agent , also has at least READ acccess to the knowledge base (If any) referred within the agent. 
 
 ### Control user access through licensing
 
